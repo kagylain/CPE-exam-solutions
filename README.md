@@ -1,2 +1,3 @@
 # CPE-exam-solutions
-The Collegiate Programming Examination (CPE) in Taiwan is a standardized, quarterly programming test designed to evaluate and certify students' and professionals' coding and algorithmic problem-solving skills 
+I will upload here some exercise which I practiced while preparing for CPE. 
+I will upload the questions and code files in the same name 
